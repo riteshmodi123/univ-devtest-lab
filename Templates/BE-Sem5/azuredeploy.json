@@ -186,7 +186,7 @@
           "fileUris": [
             "https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/apache2-on-ubuntu-vm/install_apache.sh"
           ],
-          "commandToExecute": "sh install_apache.sh"
+          "commandToExecute": "sh install-course-lab-material.sh"
         }
       }
     }

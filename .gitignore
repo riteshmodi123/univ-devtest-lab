@@ -1,0 +1,3 @@
+ARMTemplates/
+.env
+azuredeploy.parameters.withtoken.json
