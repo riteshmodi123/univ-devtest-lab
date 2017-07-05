@@ -184,9 +184,9 @@
         "autoUpgradeMinorVersion": true,
         "settings": {
           "fileUris": [
-            "https://raw.githubusercontent.com/maniSbindra/univ-devtest-lab/master/Templates/BE-Sem5/install-course-lab-material.sh"
+            "https://raw.githubusercontent.com/maniSbindra/univ-devtest-lab/master/Templates/BE-Sem5/install_course_lab_material.sh"
           ],
-          "commandToExecute": "sh install-course-lab-material.sh"
+          "commandToExecute": "sh install_course_lab_material.sh"
         }
       }
     }
