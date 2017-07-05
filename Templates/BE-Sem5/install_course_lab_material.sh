@@ -13,7 +13,7 @@ apt-get -y install apache2
 echo \<center\>\<h1\>My Demo App\</h1\>\<br/\>\</center\> > /var/www/html/demo.html
 
 # restart Apache
-apachectl restartSaurabhs-MacBook-Pro:Templates mani$
+apachectl restart
 
 
 # TO ADD
